@@ -17,7 +17,7 @@ export function PrivacySection() {
           transition={{ duration: 0.8 }}
           className="space-y-4"
         >
-          <h2 className="text-3xl md:text-4xl font-semibold text-center">
+          <h2 className="text-xl font-semibold text-center">
             Privacy and security
           </h2>
           <div className="text-lg leading-relaxed font-light">
