@@ -17,10 +17,15 @@ export function PrivacySection() {
           transition={{ duration: 0.8 }}
           className="space-y-8"
         >
-          <h2 className="text-3xl md:text-4xl font-light">Privacy and security</h2>
+          <h2 className="text-3xl md:text-4xl font-light">
+            Privacy and security
+          </h2>
           <div className="text-lg leading-relaxed font-light">
             <p>
-              Your personal data is encrypted end-to-end with keys only you control, and you sign a message to approve exactly what's shared, with whom, and for how long. You can revoke access, export, or delete data whenever you choose.
+              Your personal data is encrypted end-to-end with keys only you
+              control, and you sign a message to approve exactly what's shared,
+              with whom, and for how long. You can revoke access, export, or
+              delete data whenever you choose.
             </p>
           </div>
         </motion.div>
@@ -28,4 +33,3 @@ export function PrivacySection() {
     </section>
   );
 }
-

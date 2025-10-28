@@ -17,10 +17,17 @@ export function TradeoffSection() {
           transition={{ duration: 0.8 }}
           className="space-y-8"
         >
-          <h2 className="text-3xl md:text-4xl font-light">The false tradeoff</h2>
+          <h2 className="text-3xl md:text-4xl font-light">
+            The false tradeoff
+          </h2>
           <div className="text-lg leading-relaxed font-light">
             <p>
-              Today's AI presents users with an unfair bargain: surrender all your data to big tech companies in exchange for slightly better outputs. True personalization doesn't require you to forfeit ownership of your information to centralized platforms that monetize your data, and the promise of AI shouldn't require sacrificing your privacy.
+              Today's AI presents users with an unfair bargain: surrender all
+              your data to big tech companies in exchange for slightly better
+              outputs. True personalization doesn't require you to forfeit
+              ownership of your information to centralized platforms that
+              monetize your data, and the promise of AI shouldn't require
+              sacrificing your privacy.
             </p>
           </div>
         </motion.div>
@@ -28,4 +35,3 @@ export function TradeoffSection() {
     </section>
   );
 }
-

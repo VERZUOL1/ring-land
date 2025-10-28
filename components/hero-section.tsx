@@ -25,11 +25,13 @@ export function HeroSection() {
             />
           </div>
           <p className="text-xl md:text-2xl font-light max-w-2xl leading-relaxed">
-            Ringfence is a product company focused on personal artificial intelligence. We build onchain products designed for the future we want to see - one of prosperous, self-sovereign, <i>hypercapable</i> humans.
+            Ringfence is a product company focused on personal artificial
+            intelligence. We build onchain products designed for the future we
+            want to see - one of prosperous, self-sovereign, <i>hypercapable</i>{" "}
+            humans.
           </p>
         </motion.div>
       </div>
     </section>
   );
 }
-

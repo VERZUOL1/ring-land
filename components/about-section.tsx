@@ -17,16 +17,28 @@ export function AboutSection() {
           transition={{ duration: 0.8 }}
           className="space-y-8"
         >
-          <h2 className="text-3xl md:text-4xl font-light">Your AI. Your future.</h2>
+          <h2 className="text-3xl md:text-4xl font-light">
+            Your AI. Your future.
+          </h2>
           <div className="space-y-6 text-lg leading-relaxed font-light">
             <p>
-              We're building a future where everyone owns their personal data and uses it to train a personal AI agent that truly understands them - personalized intelligence trained to understand your life and goals.
+              We're building a future where everyone owns their personal data
+              and uses it to train a personal AI agent that truly understands
+              them - personalized intelligence trained to understand your life
+              and goals.
             </p>
             <p>
-              While AI capabilities have advanced dramatically, a fundamental problem remains: these systems know nothing about you. Every interaction starts from zero. Meanwhile, big tech companies collect your data without your control, using it to serve their interests, not yours.
+              While AI capabilities have advanced dramatically, a fundamental
+              problem remains: these systems know nothing about you. Every
+              interaction starts from zero. Meanwhile, big tech companies
+              collect your data without your control, using it to serve their
+              interests, not yours.
             </p>
             <p>
-              To solve this, we are building a secure platform where you collect, store, and own your personal data, then choose exactly what to share with AI to get genuinely personalized services and better outcomes.
+              To solve this, we are building a secure platform where you
+              collect, store, and own your personal data, then choose exactly
+              what to share with AI to get genuinely personalized services and
+              better outcomes.
             </p>
           </div>
         </motion.div>
@@ -34,4 +46,3 @@ export function AboutSection() {
     </section>
   );
 }
-

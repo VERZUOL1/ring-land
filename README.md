@@ -90,6 +90,7 @@ To customize the content, edit the respective component files in the `components
 ### Styling
 
 The project uses Tailwind CSS v4. Customize colors and theme in:
+
 - `app/globals.css` - CSS variables for colors
 - Tailwind classes directly in components
 
@@ -106,6 +107,7 @@ npx shadcn@latest add card
 ## 🎭 Animations
 
 The landing page uses Framer Motion for smooth animations:
+
 - Fade-in effects on scroll
 - Staggered animations for lists
 - Smooth transitions
@@ -131,6 +133,7 @@ Customize animations in each component's `motion` props.
 ### Other Platforms
 
 The app can be deployed to any platform that supports Next.js:
+
 - Netlify
 - AWS Amplify
 - Railway
