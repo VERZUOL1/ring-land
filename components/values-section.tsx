@@ -9,15 +9,15 @@ export function ValuesSection() {
   const isInView = useInView(ref, { once: true, margin: "-100px" });
 
   return (
-    <section ref={ref} className="py-20 px-6">
+    <section ref={ref} className="py-12 px-6">
       <div className="max-w-2xl mx-auto w-full">
         <motion.div
           initial={{ opacity: 0, y: 20 }}
           animate={isInView ? { opacity: 1, y: 0 } : { opacity: 0, y: 20 }}
           transition={{ duration: 0.8 }}
-          className="space-y-8"
+          className="space-y-4"
         >
-          <h2 className="text-3xl md:text-4xl font-light">
+          <h2 className="text-3xl md:text-4xl font-semibold text-center">
             Starting with what matters most
           </h2>
           <div className="text-lg leading-relaxed font-light">
