@@ -9,7 +9,7 @@ export function BuildingSection() {
   const isInView = useInView(ref, { once: true, margin: "-100px" });
 
   return (
-    <section ref={ref} className="py-12 px-6">
+    <section ref={ref} className="py-5 px-6">
       <div className="max-w-2xl mx-auto w-full">
         <motion.div
           initial={{ opacity: 0, y: 20 }}
@@ -18,7 +18,7 @@ export function BuildingSection() {
           className="space-y-4"
         >
           <h2 className="text-3xl md:text-4xl font-semibold text-center">Building</h2>
-          <div className="space-y-6 text-lg leading-relaxed font-light">
+          <div className="space-y-2.5 text-lg leading-relaxed font-light">
             <p>
               The future of personalized AI depends on coordination, instant
               settlement, and trust between the agents doing work on your

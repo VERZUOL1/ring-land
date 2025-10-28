@@ -5,7 +5,7 @@ import Image from "next/image";
 
 export function HeroSection() {
   return (
-    <section className="relative min-h-[40vh] flex items-center px-6 py-20">
+    <section className="relative mt-12 flex items-center px-6 py-5 pb-2">
       <div className="max-w-2xl mx-auto w-full">
         <motion.div
           initial={{ opacity: 0, y: 20 }}
@@ -14,7 +14,7 @@ export function HeroSection() {
           className="space-y-6"
         >
           <div className="relative flex justify-center">
-            <div className="absolute inset-0 bg-gradient-to-r from-blue-300/50 via-purple-300/50 to-pink-300/50 blur-2xl -z-10 scale-125" />
+            <div className="absolute inset-0 bg-gradient-to-br from-orange-200/50 via-orange-300/40 to-orange-400/30 blur-2xl -z-10 scale-125" />
             <Image
               src="/appLogo.svg"
               alt="Ringfence"
