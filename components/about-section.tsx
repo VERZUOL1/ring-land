@@ -17,7 +17,7 @@ export function AboutSection() {
           transition={{ duration: 0.8 }}
           className="space-y-4"
         >
-          <h2 className="text-3xl md:text-4xl font-semibold text-center">
+          <h2 className="text-xl font-semibold text-center">
             Your AI. Your future.
           </h2>
           <div className="space-y-2.5 text-lg leading-relaxed font-light">
