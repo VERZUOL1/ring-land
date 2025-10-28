@@ -17,17 +17,13 @@ export function DigitalTwinSection() {
           transition={{ duration: 0.8 }}
           className="space-y-4"
         >
-          <h2 className="text-3xl md:text-4xl font-semibold text-center">Your digital twin</h2>
+          <h2 className="text-3xl md:text-4xl font-semibold text-center">A digital twin</h2>
           <div className="space-y-2.5 text-lg leading-relaxed font-light">
             <p>
-              The key to personalized AI lies in creating a digital model of who
-              you are: your habits, knowledge, and preferences, structured so
-              that AI can understand and act only on your behalf.
+              The key to personalized AI lies in creating a digital model of who you are: your habits, knowledge, and preferences, structured so that AI can understand and act only on your behalf.
             </p>
             <p>
-              Your twin evolves with you over time, becoming the foundation for
-              AI services that anticipate your needs, acting as a genuine
-              extension of yourself.
+              Your twin evolves with you over time, becoming the foundation for AI services that anticipate your needs, acting as a genuine extension of yourself.
             </p>
           </div>
         </motion.div>

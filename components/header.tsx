@@ -8,7 +8,7 @@ export function Header() {
       initial={{ opacity: 0, y: -20 }}
       animate={{ opacity: 1, y: 0 }}
       transition={{ duration: 0.6 }}
-      className="sticky top-0 z-50 bg-background/80 backdrop-blur-md border-b border-border"
+      className="sticky top-0 z-50 bg-background/80 backdrop-blur-md"
     >
       <div className="max-w-5xl mx-auto px-6 py-4">
         <div className="flex items-center justify-between">
@@ -30,7 +30,7 @@ export function Header() {
           </a>
           <a
             href="#join"
-            className="text-sm font-light hover:opacity-70 transition-opacity"
+            className="text-sm font-light hover:opacity-70 transition-opacity no-underline"
           >
             Join us
           </a>

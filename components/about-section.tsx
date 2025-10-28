@@ -22,23 +22,10 @@ export function AboutSection() {
           </h2>
           <div className="space-y-2.5 text-lg leading-relaxed font-light">
             <p>
-              We're building a future where everyone owns their personal data
-              and uses it to train a personal AI agent that truly understands
-              them - personalized intelligence trained to understand your life
-              and goals.
+              AI is meant to serve you; to improve your life. You deserve intelligence that remembers your context across every service and platform, makes decisions aligned with your goals, and operates on your terms, with your data, under your control.
             </p>
             <p>
-              While AI capabilities have advanced dramatically, a fundamental
-              problem remains: these systems know nothing about you. Every
-              interaction starts from zero. Meanwhile, big tech companies
-              collect your data without your control, using it to serve their
-              interests, not yours.
-            </p>
-            <p>
-              To solve this, we are building a secure platform where you
-              collect, store, and own your personal data, then choose exactly
-              what to share with AI to get genuinely personalized services and
-              better outcomes.
+              We build towards a future where everyone owns their personal data and uses it to their own personal AI agent that truly knows them - personalized intelligence trained to understand your life and goals.
             </p>
           </div>
         </motion.div>

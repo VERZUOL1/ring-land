@@ -22,12 +22,7 @@ export function TradeoffSection() {
           </h2>
           <div className="text-lg leading-relaxed font-light">
             <p>
-              Today's AI presents users with an unfair bargain: surrender all
-              your data to big tech companies in exchange for slightly better
-              outputs. True personalization doesn't require you to forfeit
-              ownership of your information to centralized platforms that
-              monetize your data, and the promise of AI shouldn't require
-              sacrificing your privacy.
+              Today's AI presents users with an unfair bargain: surrender all your data to big tech companies in exchange for slightly better outputs. True personalization doesn't require you to forfeit ownership of your information to centralized platforms that monetize your data, and the promise of AI shouldn't require sacrificing your privacy.
             </p>
           </div>
         </motion.div>
