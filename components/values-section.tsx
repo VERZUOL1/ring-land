@@ -22,11 +22,7 @@ export function ValuesSection() {
           </h2>
           <div className="text-lg leading-relaxed font-light">
             <p>
-              Search and Commerce represent trillions of dollars in global
-              activity but remain frustratingly impersonal. We're starting here
-              because the value of personalization is immediately obvious, and
-              because solving these problems demonstrates the power of
-              user-owned data for the entire AI ecosystem.
+              Search and Commerce represent trillions of dollars in global activity but remain frustratingly impersonal. We're starting here because the value of personalization is immediately obvious, and because solving these problems demonstrates the power of user-owned data for the entire AI ecosystem.
             </p>
           </div>
         </motion.div>
