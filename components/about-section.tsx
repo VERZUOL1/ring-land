@@ -9,7 +9,7 @@ export function AboutSection() {
   const isInView = useInView(ref, { once: true, margin: "-100px" });
 
   return (
-    <section ref={ref} className="py-12 px-6">
+    <section ref={ref} className="py-5 px-6">
       <div className="max-w-2xl mx-auto w-full">
         <motion.div
           initial={{ opacity: 0, y: 20 }}
@@ -20,7 +20,7 @@ export function AboutSection() {
           <h2 className="text-3xl md:text-4xl font-semibold text-center">
             Your AI. Your future.
           </h2>
-          <div className="space-y-6 text-lg leading-relaxed font-light">
+          <div className="space-y-2.5 text-lg leading-relaxed font-light">
             <p>
               We're building a future where everyone owns their personal data
               and uses it to train a personal AI agent that truly understands
