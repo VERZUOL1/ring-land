@@ -18,14 +18,19 @@ export function AboutSection() {
           className="space-y-4"
         >
           <h2 className="text-xl font-semibold text-center">
-            Your AI. Your future.
+            Personal AI is the future
           </h2>
           <div className="space-y-2.5 text-lg leading-relaxed font-light">
             <p>
-              AI is meant to serve you; to improve your life. You deserve intelligence that remembers your context across every service and platform, makes decisions aligned with your goals, and operates on your terms, with your data, under your control.
+              AI is meant to serve you; to improve your life. You deserve an
+              intelligent agent that remembers your preferences across every
+              service and platform, makes decisions aligned with your goals, and
+              operates on your terms, with your data, under your control.
             </p>
             <p>
-              We build towards a future where everyone owns their personal data and uses it to their own personal AI agent that truly knows them - personalized intelligence trained to understand your life and goals.
+              We build for a future where every human has a personal AI powered
+              by their data, working to ensure life is happier and healthier
+              than ever before.
             </p>
           </div>
         </motion.div>
