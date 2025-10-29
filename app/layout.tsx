@@ -9,8 +9,8 @@ const spectral = Spectral({
 });
 
 export const metadata: Metadata = {
-  title: "Ringfence - Building the Future",
-  description: "Building the future of secure and intelligent systems",
+  title: "Ringfence",
+  description: "Ringfence is a product company focused on personal artificial intelligence. We build onchain products designed for the future we want to see - one of prosperous, self-sovereign, hypercapable humans.",
 };
 
 export default function RootLayout({
