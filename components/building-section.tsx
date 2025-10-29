@@ -30,7 +30,7 @@ export function BuildingSection() {
               http using stablecoins, with pay-per-use pricing as low as
               fractions of a cent per request. The ERC8004 standard creates a
               trust and accountability layer, where user and agent reputations
-              live. NEAR Shade Agent infrastructure and NEAR Intents provides a
+              live. NEAR Shade Agent infrastructure and NEAR Intents provide a
               cross-chain transaction layer that enables AI agents to execute
               operations across multiple blockchains without traditional
               bridges.
