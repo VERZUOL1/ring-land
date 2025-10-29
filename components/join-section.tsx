@@ -42,7 +42,7 @@ export function JoinSection() {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                RING
+                $RING
               </a>
             </p>
           </div>
